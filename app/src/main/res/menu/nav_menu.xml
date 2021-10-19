@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/btnMap"
+        android:enabled="true"
+        android:icon="@drawable/ic_map"
+        android:title="Map" />
+
+    <item
+        android:id="@+id/btnFriends"
+        android:enabled="true"
+        android:icon="@drawable/ic_friend"
+        android:title="Friends" />
+
+    <item
+        android:id="@+id/btnSettings"
+        android:enabled="true"
+        android:icon="@drawable/ic_account"
+        android:title="Settings" />
+
+
+</menu>

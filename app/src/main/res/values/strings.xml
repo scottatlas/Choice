@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Choice</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="choice">Choice</string>
+    <string name="choice_logo">Choice Logo</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name_s">Last Name(s)</string>
+    <string name="email_address">Email Address</string>
+    <string name="log_out">Log Out</string>
+    <!-- Strings used for picking gender stored in array -->
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <!-- Strings used for picking gender preference -->
+    <string-array name="preference_array">
+        <item>Men</item>
+        <item>Women</item>
+        <item>Everyone</item>
+    </string-array>
+    <string name="account_number">account number</string>
+    <string name="Edit_profile">Edit profile</string>
+    <string name="setting">Setting</string>
+    <string name="head_portrait">head_portrait</string>
+    <string name="todo">TODO</string>
+    <string name="Done">Done</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Introduction">Introduction</string>
+
+    //chat
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Login</string>
+    <string name="label_message">Message</string>
+    <string name="label_profile">Profile</string>
+    <string name="btn_save">Save</string>
+    <string name="type_message">Type Message</string>
+    <string name="dropped_pin">Pin</string>
+    <string name="welcome_to_choice">Welcome To Choice</string>
+    <string name="you_are_a">You are a</string>
+    <string name="update_bio">Update Bio:</string>
+    <string name="click_to_update_bio">Click to update bio:</string>
+    <string name="nope">nope</string>
+    <string name="like">like</string>
+    <string name="reload">reload</string>
+    <string name="add_spot_to_first">add spot to first</string>
+    <string name="add_spot_to_last">add spot to last</string>
+    <string name="remove_spot_from_first">remove spot from first</string>
+    <string name="remove_spot_from_last">remove spot from last</string>
+    <string name="replace_first_spot">replace first spot</string>
+    <string name="swap_first_for_last">swap first for last</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
+    <string name="title_activity_bottom_navigation_bar">BottomNavigationBar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="MyBio">My BIO</string>
+    <string name="Username">Username :</string>
+    <string name="Gender">Gender :</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="i_want_to_match_with">I want to match with:</string>
+    <string name="view_match_list">View Match List</string>
+    <string name="dislike">DisLike</string>
+    <string name="no_users_remaining">No users remaining</string>
+    <string name="bio">bio</string>
+    <string name="return_to_main_screen">Return to Main Screen</string>
+</resources>
